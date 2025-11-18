@@ -1,1 +1,1 @@
-A basic overview of how to create Langchain Tools and use them in Langchain Agents
+A basic overview of creating Langchain Tools and using them in Langchain Agents
